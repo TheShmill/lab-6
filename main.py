@@ -12,7 +12,7 @@ def main():
         # Decode
         elif option == 2:
             # TODO
-            pass
+            print(f'The encoded password is {password}, and the original password is {num}.')
         # Quit
         else:
             return
